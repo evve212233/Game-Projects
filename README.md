@@ -1,7 +1,7 @@
 ## Personal Game-Projects
-⋅⋅* Self studied Unity and c#
-⋅⋅* Made a simple rocket traveling game
-⋅⋅* Currently working on a RPG game
+⋅⋅* Self studied Unity and c# *.
+⋅⋅* Made a simple rocket traveling game *.
+⋅⋅* Currently working on a RPG game *.
 
 ## Rocket Game: Escape From Earth
 ⋅⋅* You are an alien who got stuck at Earth and try to go back to the space. It’s your mission to ascend each level without crashing nor running out of fuel in order to reach the surface.
