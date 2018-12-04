@@ -8,7 +8,7 @@ You are an alien who got stuck at Earth and try to go back to the space. It’s 
 * Each level, the goal is to travel from launch pad to a landing pad .
 * Press **SPACE** for fuel engine (go up) .
 * Press **A/D** to control the direction .
-* Avoid to hit on any **obstacles** (Anything that is not a landing pad or launch pad) while traveling.
+* Avoid to hit on any **OBSTACLE** (Anything that is not a landing pad or launch pad) while traveling.
 
 ## Upcoming RPG game: Apocalypse Zone
 * There will be combat, monster (design, animation, and etc), level design... created all by me.
