@@ -1,5 +1,5 @@
 ## Personal Game-Projects
-* Self studied Unity and c# .
+* Self studied Unity3D and c# .
 * Made a simple rocket traveling game .
 * Currently working on a RPG game .
 
