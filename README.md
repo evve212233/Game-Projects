@@ -10,7 +10,7 @@ You are an alien who got stuck at Earth and try to go back to the space. It’s 
 * Press **SPACE** for fuel engine (go up) .
 * Press **A/D** to control the direction .
 * Avoid to hit on any **OBSTACLE** (Anything that is not a landing pad or launch pad) while traveling.
-* Make sure to have the **SOUND** on when you play, it helps to survive in the game and is more fun.
+* Make sure to have the sound on when you play, it helps to survive in the game and is more fun.
 
 ## Upcoming RPG game: Apocalypse Zone
 * There will be combat, monster (design, animation, and etc), level design... created all by me.
