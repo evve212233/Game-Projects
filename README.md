@@ -5,7 +5,7 @@
 
 ## Rocket Game: Escape From Earth
 ![alt text](https://github.com/evve212233/Game-Projects/blob/master/Escape%20From%20Earth/Untitled.png)
-You are an alien who got stuck at Earth and try to go back to the space. It’s your mission to ascend each level without crashing nor running out of fuel in order to reach the surface
+**You are an alien who got stuck at Earth and try to go back to the space. It’s your mission to ascend each level without crashing nor running out of fuel in order to reach the surface**
 * Each level, the goal is to travel from launch pad to a landing pad .
 * Press **SPACE** for fuel engine (go up) .
 * Press **A/D** to control the direction .
