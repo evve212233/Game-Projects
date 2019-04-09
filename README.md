@@ -3,7 +3,7 @@
 * Made a simple rocket traveling game .
 * Currently working on more C++ and OpenGL games.
 
-## All Games in C++ and OpenGL *  **[click here](https://github.com/evve212233/CS3113)**
+## All Games in C++ and OpenGL:  **[click here](https://github.com/evve212233/CS3113)**
 
 ## Rocket Game: Escapor
 ![click here](https://github.com/evve212233/Game-Projects/blob/master/Escape%20From%20Earth/Untitled.png)
