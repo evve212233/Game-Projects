@@ -6,7 +6,7 @@
 ## All Games in C++ and OpenGL ![alt text](https://github.com/evve212233/CS3113)
 
 ## Rocket Game: Escapor
-![alt text](https://github.com/evve212233/Game-Projects/blob/master/Escape%20From%20Earth/Untitled.png)
+![click here](https://github.com/evve212233/Game-Projects/blob/master/Escape%20From%20Earth/Untitled.png)
 **You are an alien who got stuck at Earth and try to go back to the space. It’s your mission to ascend each level without crashing nor running out of fuel in order to reach the surface**
 * Each level, the goal is to travel from launch pad to a landing pad .
 * Press **SPACE** for fuel engine (go up) .
